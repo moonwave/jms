@@ -1,4 +1,5 @@
 #sudo adduser mq_user
+#create ibm MQ queue manager QM1
 QMGR=QM1
 PORT=1415
 USER=mq_user
